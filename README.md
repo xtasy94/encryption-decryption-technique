@@ -2,7 +2,7 @@
 
 ![Encryption](https://img.shields.io/badge/Encryption-Algorithm-blue)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
-![License]([https://img.shields.io/badge/License-MIT-yellow](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png))
+![License](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
 
 This project provides a custom encryption and decryption technique based on an alphanumeric constant. It uses a unique method to obfuscate text, making it unreadable without the correct decryption key.
 
